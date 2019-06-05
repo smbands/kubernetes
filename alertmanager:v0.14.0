@@ -1,0 +1,2 @@
+#代理promethues的镜像
+FROM prom/alertmanager:v0.14.0
